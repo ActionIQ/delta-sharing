@@ -238,7 +238,7 @@ lazy val releaseSettings = Seq(
 
   releaseCrossBuild := true,
 
-  licenses += ("Apache-2.0", url("http://opensource.org/licenses/Apache-2.0")),
+  licenses += ("Apache-2.0", url("http://www.apache.org/licenses/LICENSE-2.0")),
 
   pomExtra :=
     <url>https://github.com/delta-io/delta-sharing</url>
